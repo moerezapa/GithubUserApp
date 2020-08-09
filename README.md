@@ -2,7 +2,7 @@
  Submission Belajar Fundamental Aplikasi Android by Dicoding
 
 Library:
-- Room for localdatabase
-- Retorfit for networking
+- Room for local database
+- Retrofit for networking
 - Widget feature
 - Content Provider
