@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="user_searchhint">Cari username...</string>
+    <string name="back_contentdescription">Tombol kembali</string>
+    <string name="data_notfound">Yahh, data tidak ada</string>
+    <string name="followingtab_title">Mengikuti</string>
+    <string name="followertab_title">Pengikut</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="name">Nama</string>
+    <string name="username">username</string>
+    <string name="url">URL</string>
+    <string name="bio">Bio</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="following">Mengikuti</string>
+    <string name="follower">Pengikut</string>
+    <string name="repository">Repository</string>
+    <string name="btn_showprofile">Lihat Profile</string>
+    <string name="txt_number">0</string>
+    <string name="btn_showGithub">Lihat Github</string>
+</resources>
