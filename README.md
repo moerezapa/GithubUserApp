@@ -6,5 +6,5 @@
 - Widget feature
 - Content Provider
 
-## Design Architecture
+## Design Pattern
 Model View ViewModel (MVVM)
