@@ -10,7 +10,7 @@
 Model View ViewModel (MVVM)
 
 ## User Interface
-![Screenshot_1596942933](https://user-images.githubusercontent.com/28895458/89724284-438d3d00-da2b-11ea-8ae5-1c8f35b7e037.png)
+![Screenshot_1596942933](https://user-images.githubusercontent.com/28895458/89724284-438d3d00-da2b-11ea-8ae5-1c8f35b7e037.png = 150x250)
 ![Screenshot_1596943012](https://user-images.githubusercontent.com/28895458/89724285-45ef9700-da2b-11ea-9e35-db3aa6b7fb3c.png)
 ![Screenshot_1596943018](https://user-images.githubusercontent.com/28895458/89724286-46882d80-da2b-11ea-9eb7-13e0ef9eb36d.png)
 ![Screenshot_1596943078](https://user-images.githubusercontent.com/28895458/89724287-4720c400-da2b-11ea-8fcf-d823af1feed5.png)
