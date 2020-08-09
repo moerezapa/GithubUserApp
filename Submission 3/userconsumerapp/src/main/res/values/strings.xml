@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">User Consumer App</string>
+    <string name="back_contentdescription">Tombol kembali</string>
+    <string name="data_notfound">Yahh, data tidak ada</string>
+    <string name="followingtab_title">Mengikuti</string>
+    <string name="followertab_title">Pengikut</string>
+    <string name="btn_addfavorite">Tambahkan Sebagai Favorit</string>
+    <string name="name">Nama</string>
+    <string name="username">username</string>
+    <string name="url">URL</string>
+    <string name="bio">Bio</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="following_bottomsheet">Mengikuti: %1$s</string>
+    <string name="follower_bottomsheet">Pengikut: %1$s</string>
+    <string name="following">Mengikuti</string>
+    <string name="follower">Pengikut</string>
+    <string name="repository">Repository</string>
+    <string name="repository_bottomsheet">Repository: %1$s</string>
+    <string name="workat_company">Bekerja di %1$s</string>
+    <string name="btn_showprofile">Lihat Profile</string>
+    <string name="txt_number">0</string>
+    <string name="btn_showGithub">Lihat Github</string>
+    <string name="nouserfavorite_message">Anda belum memiliki daftar favorit</string>
+    <string name="nodata_error_message">Gagal mendapatkan data</string>
+</resources>

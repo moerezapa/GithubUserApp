@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Github_User_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Github_User_App.iml" group="Github_User_App" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Github User App/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/userconsumerapp/userconsumerapp.iml" filepath="$PROJECT_DIR$/.idea/modules/userconsumerapp/userconsumerapp.iml" group="Github User App/userconsumerapp" />
+    </modules>
+  </component>
+</project>

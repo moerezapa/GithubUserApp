@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="user_searchhint">Cari pengguna</string>
+    <string name="back_contentdescription">Tombol kembali</string>
+    <string name="data_notfound">Yahh, data tidak ada</string>
+    <string name="followingtab_title">Mengikuti</string>
+    <string name="followertab_title">Pengikut</string>
+    <string name="btn_addfavorite">Tambahkan Sebagai Favorit</string>
+    <string name="user_favorite_pagetitle">Akun Favorite Anda</string>
+    <string name="user_favorite_menutab">User Favorite</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="name">Nama</string>
+    <string name="username">username</string>
+    <string name="url">URL</string>
+    <string name="bio">Bio</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="following_bottomsheet">Mengikuti: %1$s</string>
+    <string name="follower_bottomsheet">Pengikut: %1$s</string>
+    <string name="following">Mengikuti</string>
+    <string name="follower">Pengikut</string>
+    <string name="repository">Repository</string>
+    <string name="repository_bottomsheet">Repository: %1$s</string>
+    <string name="workat_company">Bekerja di %1$s</string>
+    <string name="btn_showprofile">Lihat Profile</string>
+    <string name="txt_number">0</string>
+    <string name="btn_showGithub">Lihat Github</string>
+    <string name="nouserfavorite_message">Anda belum memiliki daftar favorit</string>
+    <string name="addtofav_success_message">Berhasil menambahkan ke daftar favorit</string>
+    <string name="nodata_error_message">Gagal mendapatkan data</string>
+    <string name="notification_message">Yuk cek sekarang. Kami merindukanmu</string>
+    <string name="notification_switchtitle">Pengingat tiap jam 09:00</string>
+    <string name="notification_enabled">Pengingat tiap jam 09:00 telah diaktifkan</string>
+    <string name="notification_disabled">Pengingat tiap jam 09:00 telah di non-aktifkan</string>
+    <string name="widget_empty">Anda tidak memiliki daftar favorit</string>
+</resources>

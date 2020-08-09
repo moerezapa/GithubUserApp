@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="user_searchhint">Search user</string>
+    <string name="back_contentdescription">Back button</string>
+    <string name="data_notfound">Oops, data not found</string>
+    <string name="followingtab_title">Following</string>
+    <string name="followertab_title">Follower</string>
+    <string name="btn_addfavorite">Add To Favorite</string>
+    <string name="user_favorite_pagetitle">Your User Favorite</string>
+    <string name="user_favorite_menutab">User Favorite</string>
+    <string name="language_setting">Languages Setting</string>
+    <string name="name">Name</string>
+    <string name="username">username</string>
+    <string name="url">URL</string>
+    <string name="bio">Bio</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="following_bottomsheet">Following: %1$s</string>
+    <string name="follower_bottomsheet">Follower: %1$s</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="repository">Repository</string>
+    <string name="repository_bottomsheet">Repository: %1$s</string>
+    <string name="workat_company">Work at %1$s</string>
+    <string name="btn_showprofile">Show Profile</string>
+    <string name="txt_number">0</string>
+    <string name="btn_showGithub">Go to Github</string>
+    <string name="nouserfavorite_message">You have no favorite user</string>
+    <string name="addtofav_success_message">Successfully added to favorite</string>
+    <string name="nodata_error_message">Retrieving data failed</string>
+    <string name="notification_message">Lets check this out! We miss you</string>
+    <string name="notification_switchtitle">Reminder at 09:00</string>
+    <string name="notification_enabled">Reminder at 09:00 is active</string>
+    <string name="notification_disabled">Reminder at 09:00 is off</string>
+    <string name="widget_empty">You have no favorite user</string>
+</resources>
