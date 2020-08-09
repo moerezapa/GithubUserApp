@@ -1,7 +1,6 @@
-# GithubUserApp
- Submission Belajar Fundamental Aplikasi Android by Dicoding
+# Submission Belajar Fundamental Aplikasi Android by Dicoding
 
-Library:
+## Library:
 - Room for local database
 - Retrofit for networking
 - Widget feature
